@@ -1,0 +1,82 @@
+.link{
+    color: white;
+    background-color:#06A685;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 10px 40px;
+    margin-left: 520px;
+    margin-top: 20px;
+
+}
+.papa{
+    display: block;
+    margin-top: 0px;
+    margin-left: 100px;
+
+}
+th{
+    border-bottom: 3px solid;
+    padding: 10px 30px;
+    font-weight: 500;
+    background-color:#06A685;
+    border-radius: 5px;
+}
+td{
+    font-weight: 400;
+    padding: 10px 30px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+.image{
+    width: 30px;
+}
+.photo{
+    width: 35px;
+    height: 35px;
+}
+.info{
+   margin-left: 200px;
+   font-weight: bold;
+}
+.liste{
+    margin-left: 250px;
+    font-weight: bold;
+}
+.recherche{
+    margin-left: 200px;
+    
+}
+.carre{
+    background-color: #06A685;
+    width: 100%;
+    height: 500px;
+    opacity: 100%;
+}
+.form{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.laire{
+   display: block;
+   margin-left: 340px;
+   width: 700px;
+   height: 45px;
+}
+.bouton{
+    margin-left: 640px;
+    width: 120px;
+    font-weight: bold;
+    transition: 1s;
+}
+.bouton:hover,
+.bouton:active{
+    color: white;
+    background-color: #06A685;
+}
+
